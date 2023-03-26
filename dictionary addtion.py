@@ -4,3 +4,4 @@ for i in dict:
     s=dict.get(i)
     sum=sum+s
 print(sum)
+print("hello")
